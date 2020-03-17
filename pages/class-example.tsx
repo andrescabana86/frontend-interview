@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Test1, Test2 } from "../components/test";
+import { Test1, Test2 } from "../components/class-example";
 
 const Test = () => (
   <div className="container">
